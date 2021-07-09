@@ -11,7 +11,7 @@ public class BaseTest {
 	@AfterSuite
 	public void tearDown(){
 		// Page is a classname and quite() is static method which we are calling using classname i.e Page
-		Page.quit();
+		//Page.quit();
 	
 		
 		
